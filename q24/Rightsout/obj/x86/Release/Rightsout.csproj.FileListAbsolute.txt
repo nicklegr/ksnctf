@@ -1,0 +1,4 @@
+C:\Users\nickle\AppData\Local\Temporary Projects\Rightsout\bin\Release\Rightsout.exe
+C:\Users\nickle\AppData\Local\Temporary Projects\Rightsout\bin\Release\Rightsout.pdb
+C:\Users\nickle\AppData\Local\Temporary Projects\Rightsout\obj\x86\Release\Rightsout.exe
+C:\Users\nickle\AppData\Local\Temporary Projects\Rightsout\obj\x86\Release\Rightsout.pdb
