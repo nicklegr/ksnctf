@@ -1,0 +1,7 @@
+mkdir /tmp/hoge2
+cd /tmp/hoge2
+ln -s ~/flag.txt proverb.txt
+~/proverb
+
+ちなみに、/tmp/hogeは他の人が既に作ってて、
+そこを覗けば答えが分かってしまう状態だった。一応見てない。
